@@ -76,11 +76,13 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+Chiara_code_veldis.ipynb
 
 # IPython
 profile_default/
 ipython_config.py
 pm_veldis_util.py
+ppxf_kinem_Chiara.py
  
 # pyenv
 .python-version
