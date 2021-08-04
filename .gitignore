@@ -133,3 +133,5 @@ dmypy.json
 
 #fits file
 *.fits
+#text file
+*.txt
